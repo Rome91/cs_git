@@ -13,3 +13,5 @@ class Dog:
 dog1 = Dog("Rocko", "German Shepherd", 7, False)
 dog2 = Dog("Ella", "Dachshund", 14, True)
 
+# prints info for dog1
+print(dog1.dog_info())
